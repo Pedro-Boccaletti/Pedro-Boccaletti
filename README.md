@@ -13,6 +13,7 @@ Welcome to my personal GitHub repository! Here you'll find an overview of my pub
 
 **Backend**
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 - ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 - ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -23,6 +24,8 @@ Welcome to my personal GitHub repository! Here you'll find an overview of my pub
 
 **Collaboration & Version Control**
 - ![Git & GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+- ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
 ## 📂 Public Repositories
 
@@ -44,3 +47,4 @@ Welcome to my personal GitHub repository! Here you'll find an overview of my pub
 ---
 
 Feel free to explore the repositories and reach out if you have any questions or suggestions!
+
