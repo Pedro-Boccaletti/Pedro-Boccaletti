@@ -39,7 +39,7 @@ Welcome to my personal GitHub repository! Here you'll find an overview of my pub
 - [klotski](https://github.com/Pedro-Boccaletti/klotski)  
   A C implementation of the classic Klotski puzzle game.
 
-- [orms-showcase](https://github.com/Pedro-Boccaletti/orms-showcase)
+- [orms-showcase](https://github.com/Pedro-Boccaletti/orms-showcase)  
   A typescript project for showcase different ORM implementations.
 ---
 
